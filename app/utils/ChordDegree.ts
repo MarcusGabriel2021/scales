@@ -1,0 +1,1 @@
+export type ChordDegree = "tone" | "third" | "fifth" | "seventh";
